@@ -1,0 +1,41 @@
+.navbar{
+    background-color:rgb(52, 165, 42);
+
+}
+
+
+
+
+    /*.image-rap{
+    background-image: url('/img2.jpg');
+
+
+
+
+   left: 0;
+
+   background-size: cover;
+   background-position: center;
+
+    }
+
+
+.image-rap{
+    overflow-y: auto;
+}*/
+
+.desc{
+    padding-top: 100px;
+    text-align: center;
+    font-style: italic;
+    font-family: sans-serif;
+    color:black;
+}
+
+.mfooter{
+    background-color: thistle;
+}
+
+.skill{
+    color:black;
+}
