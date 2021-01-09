@@ -1,0 +1,63 @@
+
+.main{
+    background-image: linear-gradient(rgba(24, 103, 177, 0.904), rgba(159, 86, 255, 0.466));
+background-image: url('../food.jpg') ;
+width: 100%;
+
+
+
+background-position: center center;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+
+padding-bottom: 500px;
+
+
+
+}
+p,h1{
+    color:black;
+}
+.navbar{
+
+
+}
+body {
+    font-family: "Open Sans", sans-serif;
+
+}
+
+
+
+.another{
+    background-image: linear-gradient(rgba(24, 27, 177, 0.349), rgb(89, 151, 233));
+    padding-bottom: 50px;
+}
+
+ .ab p{
+    position: fixed;
+}
+.cust ul li a{
+    color: rgb(22, 14, 14);
+
+}
+.row-cont{
+    padding-top: 20px;
+}
+.mmain{
+    padding-top: 40px;
+    background-color: rgb(125, 138, 125)
+}
+.navbar{
+    background-color: rgb(59, 55, 54);
+}
+.carousel-caption {
+    background-color:green
+}
+
+.carousel {
+    border: solid black;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.349), rgb(0, 0, 0));
+}

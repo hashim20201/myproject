@@ -1,21 +1,22 @@
-.navbar{
-    background-color:rgb(52, 165, 42);
 
+
+*{
+    margin:0;
+    padding:0;
 }
 
 
 
 
-    /*.image-rap{
-    background-image: url('/img2.jpg');
+
+
+
+    .image-rap{
+        background-image: linear-gradient(rgba(85, 82, 82, 0.904), rgb(63, 60, 60));
 
 
 
 
-   left: 0;
-
-   background-size: cover;
-   background-position: center;
 
     }
 
@@ -36,6 +37,21 @@
     background-color: thistle;
 }
 
-.skill{
-    color:black;
+
+
+.cclass{
+    margin-top: 50px;
 }
+
+.cst{
+    padding-bottom: 50px;
+}
+.cst1{
+    text-align: center;
+}
+
+.ft{
+    font-style: italic;
+  
+}
+
